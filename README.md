@@ -85,7 +85,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For questions or feedback, please contact:
 
-Ashish: your-email@example.com
+Ashish: ashish_upreti7@yahoo.com
 Enjoy using the AI Visual Assistant! 🌟---
 
 Example Use Cases
