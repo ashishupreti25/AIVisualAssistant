@@ -1,4 +1,5 @@
-#AI Visual Assistant
+# AI Visual Assistant
+
 Overview
 The AI Visual Assistant is a Streamlit-based application designed to provide users with a suite of AI-powered tools for visual and multimedia tasks. The app offers an intuitive interface with features like image generation, image captioning, image editing, and YouTube video summarization. It is built with a focus on usability, aesthetics, and functionality, making it accessible to users with varying levels of technical expertise.
 
